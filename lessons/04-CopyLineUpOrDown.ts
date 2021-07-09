@@ -4,6 +4,12 @@
  * Exercise 1: Map the rest of the Date fields to DateTime fields
  */
 
+/**
+ * ❗❗❗
+ * WARNING THIS EXERCISE IS MORE DIFFICULT/INVOLVED 😁
+ * ❗❗❗
+ */
+
 // 1. Highlight the section of code that you would like to copy to a new line (lines 19-21)
 // 2. Copy those lines 3 times (1 for each new field we need to map) (Press "Shift+Alt+↓")
 // 3. For each field change the name of the "mappedExercise1Shipment" object key and the field that you are mapping from exercise1Shipment
